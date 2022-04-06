@@ -1,0 +1,23 @@
+{
+  "name": "my",
+  "version": "1.0.0",
+  "description": "My name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tima1704/My.git"
+  },
+  "author": "Timur Ibatullin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tima1704/My/issues"
+  },
+  "homepage": "https://github.com/tima1704/My#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
